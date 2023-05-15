@@ -140,7 +140,7 @@ Add images and other contents using CSS record a screenshot of it.
 ````
 
 ## Output:
-![Screenshot (135)](https://github.com/lokeshrahulv/cover-page-design/assets/118423842/7d1e6563-f6d7-4bd2-95db-3b04fbbfd80d)
+![Screenshot (136)](https://github.com/lokeshrahulv/cover-page-design/assets/118423842/9f09b4f5-1a85-4e3b-a9a3-0922fc555c07)
 
 ## Result:
 Thus a website to display the cover page design of a book was successfully created.
